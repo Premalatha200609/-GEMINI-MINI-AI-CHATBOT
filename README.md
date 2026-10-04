@@ -1,3 +1,8 @@
+## Live Demo
+
+[Try the Gemini Mini AI Chatbot](https://gemini-mini-ai-chatbot.onrender.com)
+
+
 # Gemini Mini AI Chatbot
 
 Gemini Mini AI Chatbot is a simple and interactive AI chatbot that uses the **Google Gemini API** to understand user queries and generate intelligent responses.
